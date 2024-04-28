@@ -1,5 +1,5 @@
 using System;
-
+// 1. Использование одного универсального параметра
 class Transport<T>
 {
     public T Power { get; set; }
